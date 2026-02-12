@@ -1,0 +1,42 @@
+[
+  {
+    "tx_id": "81bbe66b-9ba7-4148-b7db-630dd26ec36e",
+    "poll_id": "README",
+    "proposal_ver": "04eb4f35aa6163a578f91b251786ae54873b6c9e",
+    "choice": "approve",
+    "user_alias": "04b155cd8126855b",
+    "timestamp": "2026-02-11T15:11:57.247Z"
+  },
+  {
+    "tx_id": "198aaaab-936a-4622-a35c-5a3e32871dac",
+    "poll_id": "README",
+    "proposal_ver": "04eb4f35aa6163a578f91b251786ae54873b6c9e",
+    "choice": "approve",
+    "user_alias": "9ab675fc155565c2",
+    "timestamp": "2026-02-11T16:23:55.624Z"
+  },
+  {
+    "tx_id": "2bc48b69-c9c3-41be-9414-e580c01b0098",
+    "poll_id": "README",
+    "proposal_ver": "04eb4f35aa6163a578f91b251786ae54873b6c9e",
+    "choice": "approve",
+    "user_alias": "15246fbd8dcc382c",
+    "timestamp": "2026-02-11T16:58:16.418Z"
+  },
+  {
+    "tx_id": "8cc3064e-02ab-486e-afca-c80eb4329e8e",
+    "poll_id": "README",
+    "proposal_ver": "04eb4f35aa6163a578f91b251786ae54873b6c9e",
+    "choice": "approve",
+    "user_alias": "66a36110ea1992b2",
+    "timestamp": "2026-02-11T17:30:03.764Z"
+  },
+  {
+    "tx_id": "2653fefb-9e0a-454d-a6cf-c1a2d3a57269",
+    "poll_id": "README",
+    "proposal_ver": "04eb4f35aa6163a578f91b251786ae54873b6c9e",
+    "choice": "approve",
+    "user_alias": "2b02d0da8190d232",
+    "timestamp": "2026-02-12T09:49:06.431Z"
+  }
+]
