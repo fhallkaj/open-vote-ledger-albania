@@ -1,0 +1,42 @@
+[
+  {
+    "tx_id": "56e120c0-ba98-4e94-8164-e5e495352e5b",
+    "poll_id": "ndertimi-i-aeroportit-te-vlores-argumentet-pro-dhe-kunder",
+    "proposal_ver": "4c3aab7cc4f1a1ad21c19f6d92f15fbb61ec54c4",
+    "choice": "reject",
+    "user_alias": "15246fbd8dcc382c",
+    "timestamp": "2026-02-12T11:02:54.613Z"
+  },
+  {
+    "tx_id": "3ffdabfa-9e69-452f-a4e2-5782a99cef23",
+    "poll_id": "ndertimi-i-aeroportit-te-vlores-argumentet-pro-dhe-kunder",
+    "proposal_ver": "4c3aab7cc4f1a1ad21c19f6d92f15fbb61ec54c4",
+    "choice": "reject",
+    "user_alias": "15246fbd8dcc382c",
+    "timestamp": "2026-02-12T11:02:54.613Z"
+  },
+  {
+    "tx_id": "bd8a1ef8-2dea-4c3e-b634-d961f42d2cd7",
+    "poll_id": "ndertimi-i-aeroportit-te-vlores-argumentet-pro-dhe-kunder",
+    "proposal_ver": "4c3aab7cc4f1a1ad21c19f6d92f15fbb61ec54c4",
+    "choice": "approve",
+    "user_alias": "5d60085820f5eaa9",
+    "timestamp": "2026-02-12T11:40:20.896Z"
+  },
+  {
+    "tx_id": "3dcec607-33e6-460c-80a5-81bd4f8f6132",
+    "poll_id": "ndertimi-i-aeroportit-te-vlores-argumentet-pro-dhe-kunder",
+    "proposal_ver": "4c3aab7cc4f1a1ad21c19f6d92f15fbb61ec54c4",
+    "choice": "reject",
+    "user_alias": "15246fbd8dcc382c",
+    "timestamp": "2026-02-12T11:02:54.613Z"
+  },
+  {
+    "tx_id": "6a423979-19b2-4ba5-afee-da48acd24921",
+    "poll_id": "ndertimi-i-aeroportit-te-vlores-argumentet-pro-dhe-kunder",
+    "proposal_ver": "4c3aab7cc4f1a1ad21c19f6d92f15fbb61ec54c4",
+    "choice": "approve",
+    "user_alias": "5d60085820f5eaa9",
+    "timestamp": "2026-02-12T11:40:20.896Z"
+  }
+]
