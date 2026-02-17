@@ -1,0 +1,15 @@
+[
+  {
+    "tx_id": "a4c69345-6241-4268-99d9-41d89cacd18b",
+    "poll_id": "reforma-e-kodit-zgjedhor-ne-shqiperi",
+    "proposal_ver": "dea634f0f37d56ffc1ac35828c963b390dafe94e",
+    "choice": "reject",
+    "user_alias": "9607afd0ac4f6203",
+    "timestamp": "2026-02-16T11:54:05.420Z",
+    "biometric_proof": {
+      "authenticatorData": "kBi4n0yIuUuM19TC1285dvVK76UXgf9hyZHShYmSMhEdAAAAAA",
+      "signature": "MEQCIGMu_U7dV7CxAQ4nCamubo6OX4uBjsp5ZdtJGtfWINpQAiAFnPNdjHmdOjbmbtOMf0sQy9ScnWJoNy1TcClope_oAQ",
+      "clientDataJSON": "eyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoiZXlKaFkzUnBiMjRpT2lKMmIzUmxJaXdpY0c5c2JFbGtJam9pY21WbWIzSnRZUzFsTFd0dlpHbDBMWHBuYW1Wa2FHOXlMVzVsTFhOb2NXbHdaWEpwSWl3aVkyaHZhV05sSWpvaWNtVnFaV04wSWl3aWRtVnljMmx2YmtoaGMyZ2lPaUprWldFMk16Um1NR1l6TjJRMU5tWm1ZekZoWXpNMU9ESTRZemsyTTJJek9UQmtZV1psT1RSbElpd2libTl1WTJVaU9pSTVaVFJoWmpKa01TMDBPR1l4TFRSa1pqSXRZbU01TUMweFptTXhZelF4WVRjek56TWlmUSIsIm9yaWdpbiI6Imh0dHBzOi8vb3ZhLWFscGhhLnZlcmNlbC5hcHAiLCJjcm9zc09yaWdpbiI6ZmFsc2V9"
+    }
+  }
+]
